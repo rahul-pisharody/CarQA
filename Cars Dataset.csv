@@ -1,0 +1,18 @@
+Serial Number,Make,Model,Year,Drivetrain,Wheelbase,Torque,Cylinders,Power,Displacement,Seating
+1,AM General Hummer,SUV,2000,AWD,130,430,8,195,6.5,4
+8,Aston Martin V8 Vantage,Convertible,2012,RWD,102.5,346,8,420,4.7,2
+26,BMW ActiveHybrid 5,Sedan,2012,RWD,116.9,330,6,335,3,5
+48,Buick Rainier ,SUV,2007,AWD/RWD,113,277,6,291,4.2,5
+75,Chevrolet Silverado 1500,Regular Cab,2012,AWD/RWD,119,305,8,302,4.8,6
+97,Dodge Charger ,SRT8,2009,RWD,120,420,8,425,6.1,5
+99,Fiat 500,Abarth,2012,FWD,90.6,170,4,160,1.4,4
+117,Ford Fiesta,Sedan,2012,FWD,98,112,4,120,1.6,5
+126,Honda Odyssey,Minivan,2012,FWD,118.1,250,6,248,3.5,8
+130,Hyundai Veloster,Hatchback,2012,FWD,104.3,123,4,138,1.6,4
+144,Jaguar XK,XKR,2012,RWD,108.3,461,8,510,5,4
+152,Lamborghini Gallardo,LP 570-4 Superleggera,2012,AWD,100.8,398,10,560,5.2,2
+160,McLaren ,MP4-12C Coupe,2012,RWD,105.1,443,8,592,3.8,2
+167,Mitsubishi Lancer,Sedan,2012,FWD,103.7,146,4,148,2,5
+183,Suzuki SX4,Hatchback,2012,FWD,98.4,140,4,150,2,5
+187,Toyota Camry,Sedan,2012,FWD,109.3,170,4,178,2.5,5
+192,Volkswagen Beetle,Hatchback,2012,FWD,99.9,177,5,170,2.5,4
