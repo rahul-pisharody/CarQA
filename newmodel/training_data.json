@@ -1,0 +1,533 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "get_make",
+        "text": "What is the make of this car?"
+      },
+      {
+        "intent": "get_make",
+        "text": "What is the make of this vehicle?"
+      },
+      {
+        "intent": "get_make",
+        "text": "What make is this car?"
+      },
+      {
+        "intent": "get_make",
+        "text": "What make is the vehicle?"
+      },
+      {
+        "intent": "get_make",
+        "text": "What make?"
+      },
+      {
+        "intent": "get_make",
+        "text": "Which company made this car?"
+      },
+      {
+        "intent": "get_make",
+        "text": "Which company made the vehicle?"
+      },
+      {
+        "intent": "get_make",
+        "text": "What is the company of this car?"
+      },
+      {
+        "intent": "get_make",
+        "text": "What is the company of the vehicle?"
+      },
+      {
+        "intent": "get_make",
+        "text": "What is the company that made this car?"
+      },
+      {
+        "intent": "get_make",
+        "text": "What is the company that made this vehicle?"
+      },
+      {
+        "intent": "get_model",
+        "text": "What model is this car?"
+      },
+      {
+        "intent": "get_model",
+        "text": "What model is the vehicle?"
+      },
+      {
+        "intent": "get_model",
+        "text": "What is the model of this vehicle?"
+      },
+      {
+        "intent": "get_model",
+        "text": "What is the model of this car?"
+      },
+      {
+        "intent": "get_model",
+        "text": "What model?"
+      },
+      {
+        "intent": "get_model",
+        "text": "What is the model?"
+      },
+      {
+        "intent": "get_type",
+        "text": "What type is this car?"
+      },
+      {
+        "intent": "get_type",
+        "text": "What type is this vehicle?"
+      },
+      {
+        "intent": "get_type",
+        "text": "What type of car?"
+      },
+      {
+        "intent": "get_type",
+        "text": "What type of vehicle?"
+      },
+      {
+        "intent": "get_type",
+        "text": "What is the type of this car?"
+      },
+      {
+        "intent": "get_type",
+        "text": "What type of car is this?"
+      },
+      {
+        "intent": "get_type",
+        "text": "What type of vehicle is this"
+      },
+      {
+        "intent": "get_year",
+        "text": "Which year was this car made?"
+      },
+      {
+        "intent": "get_year",
+        "text": "Which year was this vehicle made?"
+      },
+      {
+        "intent": "get_year",
+        "text": "In which year was this car made?"
+      },
+      {
+        "intent": "get_year",
+        "text": "In which year was this vehicle made?"
+      },
+      {
+        "intent": "get_year",
+        "text": "What is the year of this car?"
+      },
+      {
+        "intent": "get_year",
+        "text": "What is the year of this vehicle?"
+      },
+      {
+        "intent": "get_drivetrain",
+        "text": "What is the drivetrain of this car?"
+      },
+      {
+        "intent": "get_drivetrain",
+        "text": "What is the drivetrain of this vehicle?"
+      },
+      {
+        "intent": "get_drivetrain",
+        "text": "What is this car drivetrain?"
+      },
+      {
+        "intent": "get_drivetrain",
+        "text": "What is the vehicle drivetrain?"
+      },
+      {
+        "intent": "get_drivetrain",
+        "text": "What drivetrain?"
+      },
+      {
+        "intent": "get_wheelbase",
+        "text": "What is the wheelbase?"
+      },
+      {
+        "intent": "get_wheelbase",
+        "text": "What is the wheelbase of this car?"
+      },
+      {
+        "intent": "get_wheelbase",
+        "text": "What is the wheelbase of this vehicle?"
+      },
+      {
+        "intent": "get_wheelbase",
+        "text": "What wheelbase?"
+      },
+      {
+        "intent": "get_wheelbase",
+        "text": "How much wheelbase does this car have?"
+      },
+      {
+        "intent": "get_wheelbase",
+        "text": "How much wheelbase does the vehicle have?"
+      },
+      {
+        "intent": "get_torque",
+        "text": "How much torque does this vehicle have?"
+      },
+      {
+        "intent": "get_torque",
+        "text": "What is the torque of this car?"
+      },
+      {
+        "intent": "get_torque",
+        "text": "What torque does the vehicle have?"
+      },
+      {
+        "intent": "get_torque",
+        "text": "What is the torque"
+      },
+      {
+        "intent": "get_torque",
+        "text": "How much torque?"
+      },
+      {
+        "intent": "get_torque",
+        "text": "How much torque does this car have?"
+      },
+      {
+        "intent": "get_cylinders",
+        "text": "How many cylinders does the engine have?"
+      },
+      {
+        "intent": "get_cylinders",
+        "text": "How many cylinders are there in this car engine?"
+      },
+      {
+        "intent": "get_cylinders",
+        "text": "How many cylinders does the engine of this car contain?"
+      },
+      {
+        "intent": "get_cylinders",
+        "text": "How many cylinders does the car contain?"
+      },
+      {
+        "intent": "get_cylinders",
+        "text": "What is the number of cylinders on this vehicle?"
+      },
+      {
+        "intent": "get_cylinders",
+        "text": "What is the number of cylinders in this car's engine?"
+      },
+      {
+        "intent": "get_cylinders",
+        "text": "What is the number of cylinders in the engine?"
+      },
+      {
+        "intent": "get_power",
+        "text": "How much power does the car have?"
+      },
+      {
+        "intent": "get_power",
+        "text": "How much horsepower does this vehicle have?"
+      },
+      {
+        "intent": "get_power",
+        "text": "How much horsepower does the car have?"
+      },
+      {
+        "intent": "get_power",
+        "text": "How much power does this car's engine have?"
+      },
+      {
+        "intent": "get_power",
+        "text": "What is the hp of this car?"
+      },
+      {
+        "intent": "get_power",
+        "text": "What is the power of this engine?"
+      },
+      {
+        "intent": "get_power",
+        "text": "What is the power of this car's engine?"
+      },
+      {
+        "intent": "get_engine_disp",
+        "text": "What is the engine capacity of the car?"
+      },
+      {
+        "intent": "get_engine_disp",
+        "text": "What is the engine capacity of this vehicle?"
+      },
+      {
+        "intent": "get_engine_disp",
+        "text": "What is the engine displacement of the vehicle?"
+      },
+      {
+        "intent": "get_engine_disp",
+        "text": "What is the engine's displacement?"
+      },
+      {
+        "intent": "get_engine_disp",
+        "text": "What engine displacement?"
+      },
+      {
+        "intent": "get_engine_disp",
+        "text": "How much engine displacement does this car have?"
+      },
+      {
+        "intent": "get_engine_disp",
+        "text": "How much engine capacity does the vehicle have?"
+      },
+      {
+        "intent": "get_seating",
+        "text": "What is the seating capacity of this car?"
+      },
+      {
+        "intent": "get_seating",
+        "text": "How many people can this car carry?"
+      },
+      {
+        "intent": "get_seating",
+        "text": "How many people can this car seat?"
+      },
+      {
+        "intent": "get_seating",
+        "text": "How many people can the vehicle seat?"
+      },
+      {
+        "intent": "get_seating",
+        "text": "How many seats does this car have?"
+      },
+      {
+        "intent": "get_seating",
+        "text": "What is the capacity of this vehicle?"
+      },
+      {
+        "intent": "get_seating",
+        "text": "What is the seating capacity of this car?"
+      },
+      {
+        "intent": "get_seating",
+        "text": "How much seating capacity does this car have?"
+      },
+      {
+        "intent": "get_mileage",
+        "text": "What is the mileage of this car?"
+      },
+      {
+        "intent": "get_mileage",
+        "text": "What is the mileage of the vehicle?"
+      },
+      {
+        "intent": "get_mileage",
+        "text": "What mileage does this vehicle have?"
+      },
+      {
+        "intent": "get_mileage",
+        "text": "What is the mileage?"
+      },
+      {
+        "intent": "get_mileage",
+        "text": "What mileage?"
+      },
+      {
+        "intent": "get_mileage",
+        "text": "How much mileage?"
+      },
+      {
+        "intent": "get_mileage",
+        "text": "how much mileage does this car have?"
+      },
+      {
+        "intent": "get_mileage",
+        "text": "How much mileage does this vehicle have?"
+      },
+      {
+        "intent": "get_mileage",
+        "text": "What is the fuel consumption of this car?"
+      },
+      {
+        "intent": "get_mileage",
+        "text": "How much fuel consumption does this vehicle have?"
+      },
+      {
+        "intent": "get_ground_clearance",
+        "text": "What is the ground clearance of this car?"
+      },
+      {
+        "intent": "get_ground_clearance",
+        "text": "What is the ground clearance of the vehicle?"
+      },
+      {
+        "intent": "get_ground_clearance",
+        "text": "What ground clearance does the vehicle have?"
+      },
+      {
+        "intent": "get_ground_clearance",
+        "text": "What ground clearance does this car have?"
+      },
+      {
+        "intent": "get_ground_clearance",
+        "text": "What ground clearance?"
+      },
+      {
+        "intent": "get_ground_clearance",
+        "text": "How much ground clearance?"
+      },
+      {
+        "intent": "get_ground_clearance",
+        "text": "How much ground clearance does this vehicle have?"
+      },
+      {
+        "intent": "get_ground_clearance",
+        "text": "How much ground clearance does the car have?"
+      },
+      {
+        "intent": "get_ground_clearance",
+        "text": "How much ground clearance does it have?"
+      },
+      {
+        "intent": "get_ground_clearance",
+        "text": "Height off the ground"
+      },
+      {
+        "intent": "get_fuel_capacity",
+        "text": "What is the fuel capacity of this car?"
+      },
+      {
+        "intent": "get_fuel_capacity",
+        "text": "What is the fuel capacity of this vehicle?"
+      },
+      {
+        "intent": "get_fuel_capacity",
+        "text": "How much fuel can this car carry?"
+      },
+      {
+        "intent": "get_fuel_capacity",
+        "text": "How much fuel?"
+      },
+      {
+        "intent": "get_fuel_capacity",
+        "text": "What fuel capacity does this car have?"
+      },
+      {
+        "intent": "get_fuel_capacity",
+        "text": "How much fuel can it carry?"
+      },
+      {
+        "intent": "get_fuel_capacity",
+        "text": "How much fuel does this car carry?"
+      },
+      {
+        "intent": "get_curb_weight",
+        "text": "What is the weight of this car?"
+      },
+      {
+        "intent": "get_curb_weight",
+        "text": "What is the weight of the vehicle?"
+      },
+      {
+        "intent": "get_curb_weight",
+        "text": "What is the weight?"
+      },
+      {
+        "intent": "get_curb_weight",
+        "text": "How much weight?"
+      },
+      {
+        "intent": "get_curb_weight",
+        "text": "How much does this car weigh?"
+      },
+      {
+        "intent": "get_curb_weight",
+        "text": "How much does this vehicle weigh?"
+      },
+      {
+        "intent": "get_curb_weight",
+        "text": "How much weight does this car have?"
+      },
+      {
+        "intent": "get_curb_weight",
+        "text": "How much weight does the vehicle have?"
+      },
+      {
+        "intent": "get_dimensions",
+        "text": "What are the dimensions of this car?"
+      },
+      {
+        "intent": "get_dimensions",
+        "text": "What are the dimensions of the vehicle?"
+      },
+      {
+        "intent": "get_dimensions",
+        "text": "What dimensions does the car have?"
+      },
+      {
+        "intent": "get_dimensions",
+        "text": "What dimensions does this vehicle have?"
+      },
+      {
+        "intent": "get_dimensions",
+        "text": "What are the lengths of the car?"
+      },
+      {
+        "intent": "get_dimensions",
+        "text": "What are the lengths of the vehicle?"
+      },
+      {
+        "intent": "get_dimensions",
+        "text": "What is the width of the car?"
+      },
+      {
+        "intent": "get_dimensions",
+        "text": "What is the width of this vehicle?"
+      },
+      {
+        "intent": "get_dimensions",
+        "text": "What is the height of the car?"
+      },
+      {
+        "intent": "get_dimensions",
+        "text": "What is the height of the vehicle?"
+      },
+      {
+        "intent": "src_color",
+        "text": "What color is this car?"
+      },
+      {
+        "intent": "src_color",
+        "text": "What colour is the vehicle?"
+      },
+      {
+        "intent": "src_color",
+        "text": "What is the colour of this car?"
+      },
+      {
+        "intent": "src_color",
+        "text": "What is the color of this car?"
+      },
+      {
+        "intent": "src_color",
+        "text": "What is the colour of this vehicle?"
+      },
+      {
+        "intent": "src_person",
+        "text": "Is the car occupied?"
+      },
+      {
+        "intent": "src_person",
+        "text": "Is anyone in the vehicle?"
+      },
+      {
+        "intent": "src_person",
+        "text": "Is anyone in the car?"
+      },
+      {
+        "intent": "src_person",
+        "text": "Is there a person?"
+      },
+      {
+        "intent": "src_person",
+        "text": "Is there a human?"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}
