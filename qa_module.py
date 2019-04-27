@@ -1,7 +1,8 @@
 from rasa_nlu.model import Interpreter
 import json, mysql.connector
 import sys
-
+import argparse
+from predictImage import predict_class
 
 def get_serial():
     return 170
@@ -112,25 +113,44 @@ def get_msg_unit(intent):
         unit="inches"
     return msg,unit
 
-print("READY")
-message=input()
+if __name__ == "__main__":
 
-intent,conf = intent_parse(message)
-#print("Intent: ",intent," Confidence: ",conf)
-if conf<0.25:
-    print("Could not determine question")
-    sys.exit()
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--image", help="image to be processed")
+    parser.add_argument("--question", help="Question pertaining to the image")
 
-sno = get_serial()
-res = 0
-if intent[0:3]=="get":
-    dbq = get_db_query(sno,intent)
-    res=exec_db_query(dbq)
-    #print("Ans: "+str(res))
+    modelFile = 'models/model.45-0.87.hdf5'
 
-print()
-mess,unit=get_msg_unit(intent)
-if intent=="get_dimensions":
-    print(mess+str(res[0])+"x"+str(res[1])+"x"+str(res[2])+" "+unit)
-else:
-    print(mess+str(res[0])+" "+unit)
+    args = parser.parse_args()
+
+    if args.image:
+        imageFile = args.image
+    else:
+        print("Specify the image to be classified")
+        sys.exit()
+
+    if args.question:
+        message = args.question
+    else:
+        print("Specify the question")
+        sys.exit()
+
+    intent,conf = intent_parse(message)
+    #print("Intent: ",intent," Confidence: ",conf)
+    if conf<0.25:
+        print("Could not determine question")
+        sys.exit()
+
+    sno = predict_class(imageFile, modelFile)
+    res = 0
+    if intent[0:3]=="get":
+        dbq = get_db_query(sno,intent)
+        res=exec_db_query(dbq)
+        #print("Ans: "+str(res))
+
+    print()
+    mess,unit=get_msg_unit(intent)
+    if intent=="get_dimensions":
+        print(mess+str(res[0])+"x"+str(res[1])+"x"+str(res[2])+" "+unit)
+    else:
+        print(mess+str(res[0])+" "+unit)
