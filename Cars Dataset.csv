@@ -1,0 +1,197 @@
+Serial Number,Make,Model,Type,Year,Drivetrain,Power(hp),Cylinders,Displacement(Litres),Seating,Torque(lbs-ft),Mileage-city(miles/gallon),Fuel Tank Capacity(gal),Wheelbase(inches),Ground Clearance(inch),Curb weight(lbs),Length(inch),Height(inch),Width(inch),Turning Radius(ft),Gearbox
+1,AM General,Hummer,SUV,2000,AWD,195,8,6.5,4,430,14.41,25,130,9.88,6564,189.8,79.21,81.18,26.5,6-speed automatic
+2,Acura,RL,Sedan,2012,AWD,300,6,3.7,5,271,17,19.4,110.2,5.7,4099,195.8,57.2,72.7,19.4,6-speed automatic
+3,Acura,TL,Sedan,2012,FWD,280,6,3.5,5,254,20,18.5,109.3,4.5,3726,194,57.2,74,19.4,6-speed automatic
+4,Acura,TL,Type-S,2008,FWD,286,6,3.5,5,256,17,17.1,107.9,5.8,3674,189.8,56.7,72.2,19.8,5-speed automatic
+5,Acura,TSX,Sedan,2012,FWD,201,4,2.4,5,170,22,18.5,106.4,5.9,3470,185.6,56.7,72.4,19,5-speed automatic
+6,Acura,Integra,Type-R,2001,FWD,195,4,1.8,4,130,25,13.2,101.2,5.9,2600,172.4,51.9,67.3,17.4,5-speed manual
+7,Acura,ZDX,Hatchback,2012,AWD,300,6,3.7,5,270,16,21,108.3,6.5,4410,192.4,62.8,78.5,19.2,6-speed automatic
+8,Aston Martin,V8 Vantage,Convertible,2012,RWD,420,8,4.7,2,346,13,21.2,102.5,4.7,3595,172.5,49.4,73.5,18.3,6-speed automatic
+9,Aston Martin,V8 Vantage,Coupe,2012,RWD,420,8,4.7,2,346,13,21.2,102.5,4.7,3595,172.5,49.4,73.5,18.3,6-speed automatic
+10,Aston Martin,Virage,Convertible,2012,RWD,490,12,6,4,420,13,20.6,107.9,4,4166,185.2,50.7,75,19,6-speed automatic
+11,Aston Martin,Virage,Coupe,2012,RWD,490,12,6,4,420,13,20.6,107.9,4,3935,185.2,50.5,75,19,6-speed automatic
+12,Audi,RS 4,Convertible,2008,AWD,420,8,4.2,5,317,13,16.6,104.3,3.7,3957,180.7,55.7,71.5,18.2,6-speed manual
+13,Audi,A5,Coupe,2012,AWD,211,4,2,4,258,21,16.9,108.3,-1,4034,182.1,54.1,72.9,18.7,8-speed automatic
+14,Audi,TTS,Coupe,2012,AWD,265,4,2,4,258,23,15.9,97.2,-1,3219,165.3,53,72.5,18,6-speed auto-shift manual
+15,Audi,R8,Coupe,2012,AWD,430,8,4.2,2,316,11,23.8,104.3,4.3,3605,174.5,49.3,75,19.4,6-speed manual
+16,Audi,V8,Sedan,1994,AWD,276,8,4.2,5,295,13,21.1,106.4,3.7,3991,191.9,60,71.4,-1,4-speed automatic
+17,Audi,100,Sedan,1994,AWD,172,6,2.8,5,184,19,21,105.8,4.8,3605,192.6,56.3,70,-1,5-speed manual
+18,Audi,100,Wagon,1994,AWD,172,6,2.8,5,184,18,21,105.8,4.8,3870,192.6,56.3,70,-1,5-speed manual
+19,Audi,TT,Hatchback,2011,AWD,200,4,2,4,207,21,14.5,97.2,5.31,3153,164.5,53.5,72.5,18,6-speed auto-shift manual
+20,Audi,S6,Sedan,2011,AWD,435,10,5.2,5,398,14,21.1,112.1,4.3,4486,193.5,57,79.2,19.5,6-speed automatic
+21,Audi,S5,Convertible,2012,AWD,333,6,3,4,325,17,16.9,108.3,4.5,4310,182.5,54.3,73,18.7,7-speed auto-shift manual
+22,Audi,S5,Coupe,2012,AWD,354,8,4.2,4,325,14,16.9,108.3,-1,3858,182.5,53.9,73,18.7,6-speed manual
+23,Audi,S4,Sedan,2012,AWD,333,6,3,5,325,18,16.9,110.7,5.04,3847,185.7,55.4,71.9,18.7,6-speed manual
+24,Audi,S4,Sedan,2007,AWD,340,8,4.2,5,302,15,16.6,104.3,3.7,3869,180.6,55.7,70.1,18.8,6-speed manual
+25,Audi,TTRS,Coupe,2012,AWD,360,5,2.5,4,343,18,15.9,97.2,-1,3306,165.3,52.8,72.5,18,6-speed manual
+26,BMW,ActiveHybrid 5,Sedan,2012,RWD,335,6,3,5,330,23,17.7,116.9,-1,4365,193.1,57.6,73.2,19.6,8-speed automatic
+27,BMW,1 Series,Convertible,2012,RWD,230,6,3,4,200,18,14,104.7,6.18,3494,172.2,55.6,58.3,18,6-speed manual
+28,BMW,1 Series,Coupe,2012,RWD,230,6,3,4,200,18,14,104.7,6.18,3252,172.2,56,58.3,17.5,6-speed manual
+29,BMW,3 Series,Sedan,2012,RWD,240,4,2,5,255,23,15.8,110.6,5.5,3406,182.5,56.3,71.3,-1,8-speed automatic
+30,BMW,3 Series,Wagon,2012,AWD,230,6,3,5,200,17,16.1,108.7,5.5,3770,178.6,55.8,71.5,19.3,6-speed manual
+31,BMW,6 Series,Convertible,2007,RWD,360,8,4.8,4,360,14,18.5,109.4,-1,4277,190.2,54.1,73,18.7,6-speed manual
+32,BMW,X5,SUV,2007,AWD,260,6,3,5,225,17,22.5,115.5,8.3,4982,191.1,69.5,76.1,21,6-speed automatic
+33,BMW,X6,SUV,2012,AWD,300,6,3,4,300,16,22.5,115.5,8.3,4784,192.1,66.5,78.1,21,8-speed automatic
+34,BMW,M3,Coupe,2012,RWD,414,8,4,4,295,14,16.6,108.7,-1,3704,181.8,55.8,71,19.2,6-speed manual
+35,BMW,M5,Sedan,2010,RWD,500,10,5,5,383,11,18.5,113.7,5.59,4012,191.5,57.8,72.7,20.4,7-speed auto-shift manual
+36,BMW,M6,Convertible,2010,RWD,500,10,5,4,383,11,18.5,109.5,4.21,4398,191.8,54.2,73,20.5,7-speed auto-shift manual
+37,BMW,X3,SUV,2012,AWD,240,6,3,5,221,19,17.7,110.6,8.3,4112,183,65.4,74.1,19.5,8-speed automatic
+38,BMW,Z4,Convertible,2012,RWD,240,4,2,2,260,23,14.5,98.3,5.1,3263,166.9,50.8,70.5,17.5,6-speed manual
+39,Bentley,Continental Supersports Conv.,Convertible,2012,AWD,621,12,6,2,590,12,23.8,108.1,4.5,5280,189.1,54.3,76.6,18.4,6-speed automatic
+40,Bentley,Arnage,Sedan,2009,RWD,450,8,6.8,5,645,12,25.3,122.7,5.9,5699,212.2,59.6,76.1,20.3,6-speed automatic
+41,Bentley,Mulasanne,Sedan,2011,RWD,505,8,6.8,5,752,11,25.4,128.6,6.69,5699,219.5,59.9,75.8,-1,8-speed automatic
+42,Bentley,Continental GT,Coupe,2012,AWD,567,12,6,4,516,12,24,108.1,5.59,5115,189.2,55.3,75,18.5,6-speed automatic
+43,Bentley,Continental GT,Coupe,2007,AWD,552,12,6,4,479,12,23.8,108.1,5.59,5320,189.3,54.7,75.4,18.4,6-speed automatic
+44,Bentley,Continental Flying Spur,Sedan,2007,AWD,552,12,6,5,479,11,23.8,120.7,5.59,5456,208.3,27.9,75.4,19.4,6-speed automatic
+45,Bugatti,Veyron 16.4,Convertible,2009,AWD,1001,16,8,2,922,8,26.4,106.7,2.6,4387,175.7,47.4,78.7,25,7-speed auto-shift manual
+46,Bugatti,Veyron 16.4,Coupe,2009,AWD,1001,16,8,2,922,8,26.4,106.7,2.6,4162,175.7,45.6,78.7,25,7-speed auto-shift manual
+47,Buick,Regal,GS,2012,FWD,270,4,2,5,295,19,18,107.8,6.4,3710,190.2,58,73.1,18.7,6-speed manual
+48,Buick,Rainier,SUV,2007,AWD,291,6,4.2,5,277,15,22,113,8,4600,193.4,74.5,75.4,18.2,4-speed automatic
+49,Buick,Verano,Sedan,2012,FWD,180,4,2.4,5,171,21,15.6,105.7,-1,3300,183.9,58.1,71.4,18,6-speed automatic
+50,Buick ,Enclave ,SUV,2012,FWD,288,6,3.6,7,270,17,22,118.9,8.4,4780,201.8,72.5,79,20.2,6-speed automatic
+51,Cadillac ,CTS-V,Sedan,2012,RWD,556,8,6.2,5,551,14,18,113.4,-1,4213,191.6,58,72.5,19,6-speed manual w/OD
+52,Cadillac ,SRX,SUV,2012,FWD,308,6,3.6,5,265,17,21,110.5,7,4277,190.3,65.7,75.2,20.2,6-speed automatic w/OD and auto-manual
+53,Cadillac ,Escalade EXT,Crew Cab,2007,AWD,403,8,6.2,5,417,13,31,130,-1,5838,222,74.5,79.1,21.5,6-speed automatic w/OD and auto-manual
+54,Chevrolet,Silverado 1500 Hybrid,Crew Cab,2012,FWD,315,8,5.2,5,335,15,34,157.5,9.2,-1,249.2,73.6,80,-1,6-speed shiftable automatic
+55,Chevrolet,Corvette,Convertible,2012,RWD,430,8,6.2,2,424,16,18,105.7,-1,3208,174.6,49.1,72.6,19.5,6-speed manual w/OD
+56,Chevrolet,Corvette ZR1,Coupe,2012,RWD,430,8,6.2,2,424,16,18,105.7,-1,3208,174.6,49.1,72.6,19.5,6-speed manual w/OD
+57,Chevrolet,Corvette Ron Fellows Edition Z06,Convertible,2007,RWD,430,8,6.2,2,424,16,18,105.7,-1,3208,174.6,49.1,72.6,19.5,6-speed manual w/OD
+58,Chevrolet,Traverse,SUV,2012,FWD,281,6,3.6,8,266,17,22,118.9,7.2,4658,205,70.4,78.4,20.2,6-speed automatic w/OD and auto-manual
+59,Chevrolet,Camaro,Convertible,2012,RWD,323,6,3.6,4,278,17,19,112.3,-1,3780,190.4,54.2,75.5,18.9,6-speed manual w/OD
+60,Chevrolet,HHR ,SS,2010,FWD,155,4,2.2,2,150,22,16,103.2,6.3,3155,176.2,63.1,69.1,18,5-speed manual w/OD
+61,Chevrolet,Impala,Sedan,2007,FWD,211,6,3.5,5,214,21,17,110,7.1,3555,200.4,58.7,72.9,19,4-speed automatic w/OD
+62,Chevrolet,Tahoe Hybrid,SUV,2012,RWD,332,8,6,8,367,20,25,116,9.5,5598,202,74.6,79,19.5,4-speed automatic/CVT w/OD and auto-manual
+63,Chevrolet,Sonic,Sedan,2012,FWD,138,4,1.8,5,125,26,12.2,99.4,-1,2721,173.1,59.7,68.3,17.3,5-speed manual w/OD
+64,Chevrolet,Express,Cargo Van,2007,RWD,195,6,4.3,2,260,15,31,135,7.6,4894,224.1,81.6,79.4,24.3,4-speed automatic w/OD
+65,Chevrolet,Avalanche,Crew Cab,2012,RWD,320,8,5.3,5,335,15,31,130,9.1,5840,221.3,76.6,79.1,21.5,6-speed automatic w/OD and auto-manual
+66,Chevrolet,Cobalt,SS,2010,FWD,155,4,2.2,5,150,25,13,103.3,5.3,2721,180.5,55.5,67.9,16.7,5-speed manual w/OD
+67,Chevrolet,Malibu Hybrid,Sedan,2010,FWD,169,4,2.4,5,160,22,16,112.3,-1,3415,191.8,57.1,70.3,20.2,4-speed automatic w/OD
+68,Chevrolet,TrailBlazer,SS,2009,RWD,285,6,4.2,5,276,14,22,113,7.8,4356,191.8,75.5,74.7,18.2,4-speed automatic w/OD
+69,Chevrolet,Silverado 2500HD Regular Cab,Crew Cab,2012,FWD,315,8,5.2,5,335,15,34,157.5,9.2,-1,249.2,73.6,80,-1,6-speed shiftable automatic
+70,Chevrolet,Silverado 1500 Classic Extended Cab,Crew Cab,2012,FWD,315,8,5.2,5,335,15,34,157.5,9.2,-1,249.2,73.6,80,-1,6-speed shiftable automatic
+71,Chevrolet,Express,Van,2007,RWD,195,6,4.3,2,260,15,31,135,7.6,4894,224.1,81.6,79.4,24.3,4-speed automatic w/OD
+72,Chevrolet,Monte Carlo,Coupe,2007,FWD,211,6,3.5,5,214,21,17,110.5,-1,3354,196.7,55.8,72.9,19,4-speed automatic w/OD
+73,Chevrolet,Malibu  ,Sedan,2007,FWD,144,4,2.2,5,155,24,16.1,106.3,6,3174,188.3,57.5,69.9,18,4-speed automatic w/OD
+74,Chevrolet,Silverado 1500 Extended Cab,Crew Cab,2012,FWD,315,8,5.2,5,335,15,34,157.5,9.2,-1,249.2,73.6,80,-1,6-speed shiftable automatic
+75,Chevrolet,Silverado 1500 Regular Cab,Crew Cab,2012,FWD,315,8,5.2,5,335,15,34,157.5,9.2,-1,249.2,73.6,80,-1,6-speed shiftable automatic
+76,Chrysler,Aspen,SUV,2009,RWD,303,8,4.7,8,330,14,27,119.2,6.9,4866,202.1,73.6,76,18.5,5-speed multi-speed automatic w/OD
+77,Chrysler,Sebring,Convertible,2010,FWD,189,6,2.7,4,191,18,16.9,108.9,5.3,3847,193.8,58.5,71.5,18.3,4-speed automatic w/OD
+78,Chrysler,Town and Country,Minivan,2012,FWD,283,6,3.6,7,260,17,20,121.2,5.6,4652,202.8,67.9,78.7,19.6,6-speed multi-speed automatic w/OD and auto-manual
+79,Chrysler,300 SRT-8,Sedan,2010,RWD,178,6,2.7,5,190,18,18,120,5.6,3712,196.8,58.4,74.1,19.4,4-speed automatic w/OD
+80,Chrysler,Crossfire,Convertible,2008,RWD,215,6,3.2,2,229,15,15.9,94.5,4.9,3061,159.8,51.5,69.5,16.1,6-speed manual w/OD
+81,Chrysler,PT Cruiser,Convertible,2008,FWD,150,4,2.4,5,165,21,15,103,6,3147,168.9,63,67.1,18.3,5-speed manual w/OD
+82,Daewoo,Nubira,Wagon,2002,FWD,129,4,2,5,136,22,13.7,101.2,-1,2800,177,56.3,66.9,17.4,5-speed manual w/OD
+83,Dodge,Caliber,Wagon,2012,FWD,158,4,2,5,141,24,13.6,103.7,7.7,2940,173.8,60.4,68.8,17.7,5-speed manual w/OD
+84,Dodge,Caliber,Wagon,2007,FWD,148,4,1.8,5,125,28,13.6,103.7,7,2966,173.8,60.4,68.8,18.6,5-speed manual w/OD
+85,Dodge,Caravan,Minivan,1997,FWD,150,4,2.4,5,167,20,20,113.3,-1,3528,186.3,68.5,75.6,18.8,3-speed automatic
+86,Dodge,Ram Pickup 3500,Crew Cab,2010,RWD,350,6,6.7,3,610,15,34,140.5,7.6,6847,230.4,73.6,96.4,22.5,6-speed manual w/OD
+87,Dodge,Ram Pickup 3500,Quad Cab,2009,RWD,350,6,6.7,6,610,15,34,140.5,7.6,6847,227.7,78.1,79.9,22.3,6-speed manual w/OD
+88,Dodge,Sprinter,Cargo Van,2009,RWD,154,6,3,2,280,14,25,144.3,-1,5460,232.5,107.5,79.7,23.8,5-speed automatic w/OD and auto-manual
+89,Dodge,Journey,SUV,2012,FWD,173,4,2.4,5,166,19,20.5,113.8,7.2,3796,192.4,66.6,72.2,19.2,4-speed automatic w/OD and auto-manual
+90,Dodge,Dakota,Crew Cab,2010,RWD,210,6,3.7,5,235,15,22,131.3,7.9,4336,218.5,68.1,76,21.6,4-speed automatic w/OD
+91,Dodge,Dakota,Club Cab,2007,RWD,210,6,3.7,2,235,16,22,131.3,7.9,4296,218.8,68.7,71.7,22,6-speed manual w/OD
+92,Dodge,Magnum,Wagon,2008,RWD,190,6,2.7,5,190,21,18,120,5.6,3804,197.7,58.3,74.1,19.4,4-speed automatic w/OD
+93,Dodge,Challenger SRT8,Coupe,2011,RWD,305,6,3.6,5,268,18,19.5,116,5.2,3834,197.7,57.3,75.7,19,5-speed automatic w/OD and auto-manual
+94,Dodge,Durango,SUV,2012,RWD,290,6,3.6,7,260,16,24.6,119.8,8.2,4756,199.8,70.9,75.8,18.5,5-speed automatic w/OD and auto-manual
+95,Dodge,Durango,SUV,2007,RWD,210,6,3.7,5,235,16,27,119.2,8.7,4713,200.8,74.3,76,19.8,5-speed automatic w/OD and auto-manual
+96,Dodge,Charger  ,Sedan,2012,RWD,292,6,3.6,5,260,18,19.1,120.2,5,3961,199.9,58.4,75,18.8,5-speed automatic w/OD and auto-manual
+97,Dodge,Charger SRT8,Sedan,2009,RWD,425,8,6.1,5,420,13,19,120,5.1,4160,200.1,58.2,74.5,19.4,5-speed automatic w/OD and auto-manual
+98,Eagle,Talon,Hatchback,1998,FWD,140,4,2,4,130,22,17,98.8,-1,2729,174.8,51,73.4,19,5-speed manual w/OD
+99,Fiat,500 Abarth,Hatchback,2012,FWD,160,4,1.4,4,170,31,10.5,90.6,4.1,2533,144.4,59.2,64.1,18.8,5-speed Automatic
+100,Fiat,500 Convertible,Convertible,2012,FWD,101,4,1.4,4,98,34,10.5,90.6,4.6,2416,139.6,59.8,64.1,15.3,6-speed Automatic
+101,Ferrari,FF,Coupe,2012,AWD,651,12,6.3,2,503,11,24,117.7,4.7,4145,193.2,54.3,76.9,-1,7-speed auto-shift manual
+102,Ferrari,California,Convertible,2012,RWD,453,8,4.3,2,357,13,20.6,105.1,5.7,3825,179.6,51.5,74.9,18.4,7-speed auto-shift manual
+103,Ferrari,458 Italia Convertible,Convertible,2012,RWD,570,8,4.5,2,398,12,22.7,104.3,4.4,3274,178.2,47.8,76.3,-1,7-speed auto-shift manual
+104,Ferrari, 458 Italia Coupe,Coupe,2012,RWD,570,8,4.5,2,398,12,22.7,104.3,4.4,3385,178.2,47.8,76.3,-1,7-speed auto-shift manual
+105,Fisker,Karma,Sedan(Electric),2012,RWD,403,4,2,4,959,55,9,124.4,5.6,5300,196.8,52.4,71.8,20.6,1-speed automatic (Electric)
+106,Ford, F-450 Super Duty,Crew Cab,2012,AWD,385,8,6.2,6,405,12,37.5,200.2,8,7329,285.9,80.6,93.9,-1,5-speed Automatic
+107,Ford,Mustang Convertible,Convertible,2007,RWD,210,6,4,4,240,19,16,107.1,5.7,3461,188,55.7,73.9,16.7,5-speed Manual
+108,Ford,Freestar,Minivan,2007,FWD,210,6,4.2,7,263,17,26,120.8,7.5,4275,201,70.6,76.4,19.8,4-speed Automatic
+109,Ford,Expedition EL,SUV,2009,RWD,300,8,5.4,5,365,14,28,131,8.7,6088,221.3,78.8,78.3,20.8,6-speed Automatic
+110,Ford,Edge,SUV,2012,FWD,285,6,3.5,5,253,19,18,111.2,7.9,4056,184.2,67,76,19.3,6-speed Automatic
+111,Ford,Ranger SuperCab,Crew Cab,2011,RWD,143,4,2.3,5,154,22,19.5,125.7,8.6,3210,203.6,66.3,69.4,21.3,5-speed Manual
+112,Ford,GT,Coupe,2006,RWD,550,8,5.4,2,500,13,17.5,106.7,5,3485,182.8,44.3,76.9,20,6-speed Manual
+113,Ford, F-150,Regular Cab,2012,RWD,302,6,3.7,3,278,17,26,126,8.2,4685,213.2,74.8,79.2,20.8,6-speed Automatic
+114,Ford, F-150,Regular Cab,2007,RWD,202,6,4.2,3,260,16,26,126,8,4758,211.2,73.5,78.9,20.9,5-speed Manual
+115,Ford,Focus,Sedan,2007,FWD,136,4,2,5,136,27,14,102.9,6.2,2647,175.2,56.8,66.7,17.1,5-speed Manual
+116,Ford,E-Series Wagon,Van,2012,RWD,255,8,5.4,15,350,11,35,138,-1,6641,236.7,82.3,79.4,24.3,4-speed Automatic
+117,Ford,Fiesta,Sedan,2012,FWD,120,4,1.6,5,112,29,12,98,6.6,2578,173.6,58,67.8,17.2,5-speed Manual
+118,GMC,Terrain,SUV,2012,FWD,182,4,2.4,5,172,22,18,112.5,6.9,3853,185.3,66.3,72.8,20,6-speed Automatic
+119,GMC,Savana,Van,2012,RWD,280,8,4.8,12,295,11,31,135,7.1,6070,224.1,81.5,79.2,24.6,6-speed Automatic
+120,GMC,Yukon Hybrid,SUV,2012,RWD,320,8,5.3,8,335,15,26,116,9,5448,202,76.9,79,19.5,6-speed Automatic
+121,GMC,Acadia,SUV,2012,AWD,288,6,3.6,8,270,16,22,118.9,7.4,4857,200.7,72.8,78.2,20.2,6-speed Automatic
+122,GMC,Canyon,Extended Cab,2012,RWD,185,4,2.9,5,190,18,19.6,126,10.4,3592,207.1,65.2,67.6,22.1,4-speed Automatic
+123,Geo,Metro,Convertible,1993,FWD,55,3,1,4,53,38,10.6,93.1,6.3,1694,151.4,53.5,62.7,15.8,5-speed Manual
+124,HUMMER,H3T,Crew Cab,2010,4WD,239,5,3.7,5,241,14,27,134.2,9.5,4911,212.7,72.1,75,21.9,5-speed Manual
+125,HUMMER,H2 SUT,Crew Cab,2009,4WD,393,8,6.2,5,415,10,32,122.8,9.9,6614,189.9,79.2,81.2,21.7,6-speed Automatic
+126,Honda,Odyssey,Minivan,2012,FWD,248,6,3.5,8,250,18,21,118.1,4.5,4337,202.9,68.4,79.2,18.3,5-speed Automatic
+127,Honda,Odyssey,Minivan,2007,FWD,244,6,3.5,7,240,18,21,118.1,4.3,4384,201,68.8,77.1,18.3,5-speed Automatic
+128,Honda,Accord,Coupe,2012,FWD,190,4,2.4,5,162,23,18.5,107.9,5.7,3184,191,56.4,72.8,18.5,5-speed Manual
+129,Honda,Accord,Sedan,2012,FWD,177,4,2.4,5,161,23,18.5,110.2,5.7,3216,194.9,58.1,72.7,18.8,5-speed Manual
+130,Hyundai,Veloster,Hatchback,2012,FWD,138,4,1.6,4,123,27,13.2,104.3,5.6,2584,166.1,55.1,70.5,17.1,6-speed Manual
+131,Hyundai,Santa Fe,SUV,2012,FWD,175,4,2.4,5,169,20,18,106.3,8.1,3725,184.1,67.9,74.4,17.7,6-speed Automatic
+132,Hyundai,Tucson,SUV,2012,FWD,165,4,2,5,146,20,15.3,103.9,6.7,3139,173.2,65.2,71.7,17.3,5-speed Manual
+133,Hyundai,Veracruz,SUV,2012,AWD,260,6,3.8,7,257,16,20.6,110.4,8.1,4431,190.6,68.9,76.6,18.3,6-speed Automatic
+134,Hyundai,Sonata Hybrid,Sedan,2012,FWD,166,4,2.4,5,154,34,17.2,110,5.1,3457,189.8,57.7,72.2,17.9,6-speed Automatic
+135,Hyundai,Elantra,Sedan,2007,FWD,138,4,2,5,136,28,14,104.3,5.9,2723,177.4,58.3,69.9,16.9,5-speed Manual
+136,Hyundai,Accent,Sedan,2012,FWD,138,4,1.6,5,123,28,11.4,101.2,5.5,2396,172,57.1,66.9,17.1,6-speed Manual
+137,Hyundai,Genesis,Sedan,2012,RWD,333,6,3.8,5,291,18,19.3,115.6,5.2,3824,196.3,58.1,74.4,18,8-speed Automatic
+138,Hyundai,Sonata,Sedan,2012,FWD,192,4,2.4,5,184,24,18.5,110,5.5,3161,189.8,57.9,72.2,17.9,6-speed Manual
+139,Hyundai,Elantra Touring,Hatchback,2012,FWD,138,4,2,5,136,23,14,106.3,5.9,2937,176.6,59.8,69.5,17.1,5-speed Manual
+140,Hyundai,Azera,Sedan,2012,FWD,293,6,3.3,5,255,20,18.5,112,5.4,3605,193.3,57.9,73.2,18.3,6-speed Automatic
+141,Infiniti,IPL G,Coupe,2012,RWD,348,6,3.7,4,276,17,20,112.2,5.1,3718,185.1,54.9,71.8,18.1,6-speed Manual
+142,Infiniti,QX56,SUV,2012,AWD,400,8,5.6,7,413,14,26,121.1,9.2,5850,208.3,75.8,79.9,20.8,7-speed Automatic
+143,Isuzu,Ascender,SUV,2008,4WD,285,6,4.2,5,276,14,21.7,113,8,4594,191.6,71.9,76.1,18.2,4-speed Automatic
+144,Jaguar XK,XKR,XKR,2012,RWD,510,8,5,4,461,15,16.1,108.3,4.7,3968,188.7,52,74.5,16.7,6-speed Automatic
+145,Jeep,Patriot,SUV,2012,FWD,158,4,2,5,141,23,13.6,103.7,8.1,3111,173.8,65.5,69.2,17.8,5-speed Manual
+146,Jeep,Wrangler,SUV,2012,4WD,285,6,3.6,4,260,17,18.6,95.4,8.8,3879,163.8,70.9,73.7,17.5,6-speed Manual
+147,Jeep,Liberty,SUV,2012,4WD,210,6,3.7,5,235,15,19.5,106.1,7.8,4290,176.1,70.1,73.1,17.7,4-speed Automatic
+148,Jeep,Grand Cherokee,SUV,2012,FWD,290,6,3.6,5,260,23,24.6,114.8,8.6,4660,189.8,69.4,76.3,18.5,5 Speed Automatic
+149,Jeep,Compass,SUV,2012,FWD,172,4,2.4,5,-1,10,19.6,104,-1,-1,-1,-1,-1,-1,9 Speed Automatic
+150,Lamborghini,Reventon,2dr Sports Coupe,2008,AWD,650,12,6.5,2,487,11,14,105,-1,-1,-1,-1,-1,-1,6 Speed Automatic
+151,Lamborghini,Aventador,2dr Sports Coupe,2012,AWD,690,12,6.5,2,465,21,24,106,-1,-1,188,44.7,89,-1,6 Speed Automatic
+152,Lamborghini,Gallardo LP 570-4,Coupe,2012,AWD,560,10,5.2,2,398,12,23.8,100.8,-1,3042,171.1,45.9,74.8,18.9,6-speed Automatic
+153,Lamborghini,Diablo,2dr Sports Coupe,2001,AWD,550,12,4.6,2,326,16,26.4,104.3,5.5,3583,176,43.5,80,-1,5-speed Manual
+154,Land Rover,Range Rover,SUV,2012,FWD,375,8,5,5,375,-1,27,113,6.1,5697,195.8,73.9,77,-1,5 Speed Automatic
+155,Land Rover,LR2,SUV,2012,FWD,240,8,2,5,250,17,18.5,104.7,8.3,3880,177.1,68.5,75.1,18.5,8 Speed Automatic
+156,Lincoln,Town Car,Sedan,2011,FWD,239,8,3.2,4,287,16,19,123,6,4467,221.4,59.1,78.5,20.8,4 Speed Automatic
+157,MINI,Cooper Roadster,Convertible,2012,FWD,121,6,1.6,2,114,10,13.2,-1,5.4,2635,146.8,54.5,66.3,-1,6-speed manual
+158,Maybach,Landaulet,Convertible,2012,RWD,620,12,6,4,738,10,29.1,150.7,6.3,-1,242.7,61.9,78,24.3,5 Speed Automatic
+159,Mazda,Tribute,SUV,2011,FWD,171,4,2.5,5,171,23,16.5,103.1,8.4,3272,174.9,67.9,71.1,18.3,4 Speed Manual
+160,McLaren ,MP4-12C Coupe,Coupe,2012,RWD,592,8,3.8,2,443,18,15,105.1,-1,3161,177.5,47.2,75.2,-1,7 Speed Automatic
+161,Mercedes-Benz,300-Class,Convertible,1993,RWD,121,5,2.1,4,165,23,26,110.2,-1,3390,187.2,56.3,68.5,-1,5 Speed Manual
+162,Mercedes-Benz,C-Class,Sedan,2012,RWD,201,4,1.8,5,229,21,17.4,108.7,-1,3428,180.8,56.3,69.7,17.7,6 Speed Automatic
+163,Mercedes-Benz,SL-Class,Coupe,2009,RWD,362,6,3,2,369,20,19.8,101.7,-1,3826,182.3,51.2,73.9,18.1,4 Speed Manual 
+164,Mercedes-Benz,E-Class,Sedan,2012,RWD,302,4,3.5,4,273,19,17.4,108.7,-1,3619,185,54.8,70.3,17.7,6 Speed Automatic 
+165,Mercedes-Benz,S-Class,Sedan,2012,RWD,275,6,3.5,5,258,19,23.8,124.6,5.8,4474,206.5,58,73.7,20,9 Speed Automatic
+166,Mercedes-Benz,Sprinter,Van,2012,RWD,188,6,3,20,325,21,26.4,170.3,-1,5545,273.2,107.5,79.7,27.3,7 Speed Automatic
+167,Mitsubishi Lancer,Sedan,Sedan,2012,FWD,148,4,2,5,146,25,15.5,103.7,5.5,2866,180,58.3,69.2,16.4,5 Speed Automatic
+168,Nissan,Leaf (Electric),Hatchback,2012,FWD,107,-1,-1,5,207,106,-1,-1,6.3,3385,175,61,69.7,17.1,1 Speed automatic
+169,Nissan,NV,Van,2012,RWD,261,6,4,20,281,22,28,146.1,8.1,5791,240.6,83.9,79.9,22.6,5 Speed Automatic
+170,Nissan,Juke,Hatchback,2012,FWD,188,4,1.6,5,177,27,13.2,99.6,7,2959,162.4,61.8,69.5,18.2,6 Speed Automatic
+171,Nissan,240SX,Coupe,1998,FWD,155,4,2.4,2,160,22,17.2,99.4,-1,2800,151,51,68.1,16.7,5-speed manual
+172,Plymouth,Neon,Coupe,1999,FWD,132,4,2,4,129,20,12.5,104,6,2470,171.8,54.9,67.4,-1,5 Speed Manual
+173,Porsche,Panamera,Sedan,2012,RWD,300,6,3.6,4,295,18,21.1,115,5.6,3880,195.7,55.8,76,19.6,7 Speed Automatic
+174,Ram,C/V Cargo Van,Minivan,2012,FWD,283,6,3.6,2,260,17,20,121.2,6.4,4150,202.5,69,78.7,19.5,6 Speed Automatic
+175,Rolls-Royce,Phantom Drophead Coupe,Convertible,2012,RWD,453,12,6.8,4,531,11,26.4,130.7,-1,5798,220.8,62.7,78.2,21.5,6 Speed Automatic
+176,Rolls-Royce,Ghost,Sedan,2012,RWD,563,12,6.6,5,575,13,21.8,129.7,-1,5490,212.6,61,76.7,22,8 Speed automatic
+177,Rolls-Royce,Phantom,Sedan,2012,RWD,440,12,6.6,4,521,12,23.5,129.4,-1,5630,216.2,61,75.1,21.6,6 Speed Automatic
+178,Scion,xD,Convertible,2012,FWD,128,4,1.8,5,125,27,11.1,96.9,6.5,2625,154.7,59.4,67.9,18.5,5 Speed Manual
+179,Spyker,C8,Convertible,2009,RWD,350,8,3.6,2,340,14,14.8,106,5.6,3025,165.4,51.6,73.6,20.6,6 Speed Manual
+180,Spyker,C8,Coupe,2009,RWD,400,8,4.2,2,354,13,15,107,-1,3142,182,50,77,19.5,6 Speed Manual
+181,Suzuki,Aerio,Sedan,2007,FWD,155,4,2.3,5,152,25,13.2,97.6,5.9,2661,171.3,60.8,67.7,16.4,5 Speed Manual
+182,Suzuki,Kizashi,Sedan,2012,FWD,185,4,2.4,5,170,21,16.6,106.3,5.7,3241,183.1,71.7,58.3,18,6 Speed Automatic
+183,Suxuki,SX4,Hatchback,2012,FWD,150,4,2,5,140,23,13.2,98.4,6.9,2748,162.8,62.2,69.1,17.4,6 Speed Manual
+184,Suzuki,SX4,Sedan,2012,FWD,150,4,2,5,140,23,13.2,98.4,6.5,2748,176.8,60.8,68.1,17.4,6 Speed Manual
+185,Tesla,Model S,Sedan,2012,RWD,362,-1,-1,5,325,88,-1,116.5,6.3,4647,195.9,56.5,77.3,18.5,1 Speed Automatic
+186,Toyota,Sequoia,SUV,2012,RWD,310,8,4.6,8,327,14,-1,122,9.9,5680,205.1,77,79.9,19.6,6 Speed Automatic
+187,Toyota,Camry,Sedan,2012,FWD,178,4,2.5,5,170,25,17,109.3,6.1,3190,189.2,57.9,71.7,18.3,6 Speed Automatic
+188,Toyota,Corolla,Sedan,2012,FWD,132,4,1.8,5,128,27,13.2,102.4,5.8,2767,179.3,57.7,69.4,17.7,5 Speed Automatic
+189,Toyota,4Runner,SUV,2012,RWD,270,6,4,5,278,17,23,109.8,9,4400,189.9,71.5,75.8,18.7,5 Speed Automatic
+190,Volkswagen,Golf,Hatchback,2012,FWD,296,4,2.5,4,177,24,14.5,101.5,5.4,3102,165.4,58.3,70.3,17.9,5 Speed Automatic
+191,Volkswagen,Golf,Hatchback,1991,FWD,100,4,1.8,4,107,22,14.5,97.3,4.6,2375,159.1,55.7,65.5,17.2,5 Speed Manual
+192,Volkswagen,Beetle,Hatchback,2012,FWD,170,4,2.5,2,177,22,14.5,99.9,5.2,2939,168.4,58.5,71.2,17.7,6 Speed Manual
+193,Volvo,C30,Hatchback,2012,FWD,227,5,2.5,4,236,24,15.9,103.9,-1,3211,167.4,57,70.2,17.4,6 Speed Manual
+194,Volvo,240,Sedan,1993,RWD,114,4,2.3,5,136,18,15.8,104.3,4.7,3084,190.7,57.5,67.7,16.1,5 Speed Manual
+195,Volvo,XC90,SUV,2007,FWD,235,6,3.2,5,236,15,21.1,112.6,8.9,4400,189.3,70.2,74.7,20,6 Speed Automatic
+196,smart,fortwo,Convertible (Electric),2012,RWD,70,3,1,2,68,34,8.7,73.5,5.2,1808,106.1,60.7,61.4,14.4,5 Speed Automatic
